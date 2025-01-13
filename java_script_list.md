@@ -1,0 +1,31 @@
+# List of Java Script Modules
+- Section 1 - Introduction
+- Section 2 - Basics: Variables, Data Types, Operators and Functions
+- Section 3 - Efficient Development and Debugging
+- Section 4 - Working with Control Structures (is Statements, Loops, Error Handling)#
+- Section 5 - Behind the Scennes and the werid past
+- Section 6 - More on Functions
+- Section 7 - Working with the DOM (Browser HTML Code) in JavaScript
+- Section 8 - More on Arrays and Iterables
+- Section 9 - More on Objects
+- Section 10 - Classes and Object Orientated Programming
+- Section 11 - Deep Dive: Constructor Functions and Prototypes
+- Section 12 - Practice: OOP and Classes
+- Section 13 - Back to the DOM and More Browser APIs
+- Section 14 - Working with Events
+- Section 15 - Advanced Function Concepts
+- Section 16 - More on Numbers and Strings
+- Section 17 - Async JavaScript: Promises and Callbacks
+- Section 18 - Working with HTTP Requests
+- Section 19 - Working with JavaScript
+- Section 21 - JavaScript tooling and workflows
+- Section 22 - Utilising Browser Storage
+- Section 23 - JavaScript and Browser Support
+- Section 24 - Time to Practice: Share My Place App
+- Section 25 - Working with JavaScript Frameworks
+- Section 26 - Meta-Programming: Symbols, Iterators, Generators, Reflect API and Proxy API
+- Section 27 - Node.js: An introduction
+- Section 28 - Security 
+- Section 29 - Deploying JavaScript Code
+- Section 30 - Performance and Optimisations
+- Section 31 - Introduction to testing

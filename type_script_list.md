@@ -1,0 +1,26 @@
+# TypeScript module list
+- Section 1 - Getting Started
+- Section 2 - TypeScript Basics and Basic Types
+- Section 3 - The TypeScript Compiler (and its configuration)
+- Section 4 - TypeScript Essentials Demo Project
+- Section 5 - Next-generation JavaScript and TypeScript
+- Section 6 - Classes and Interfaces
+- Section 7 - Advanced Types
+- Section 8 - Generic Types
+- Section 9 - Classes and Generics - Demo Project
+- Section 10 - Deriving Types from Types
+- Section 11 - ECMAScript Decorators
+- Section 12 - Experimental Decorators
+- Section 13 - Practice Time! Let's build a Drag and Drop Project
+- Section 14 - Modules and Namespaces
+- Section 15 - Creating and Running TypeScript Projects with Vite
+- Section 16 - Using WebPack with TypeScript
+- Section 17 - 3rd Party Libraries and TypeScript
+- Section 18 - Time To practice - Lets build a "select and share a place" app
+- Section 19 - React.js and TypeScript
+- Section 20 - Node.js + Express and TypeScript
+- Section 21 - Course Roundup
+- Section 22 - Legacy - Typescript basics and Basic Types
+- Section 23 - Legacy - The typeScript compiler and its configuration
+- Section 24 - Legacy - Classes and Interfaces
+- Section 25 - Legacy - Generics
