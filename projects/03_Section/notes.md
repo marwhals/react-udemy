@@ -109,3 +109,41 @@ Dynamic Content
 ## Configuring Components With 'Props'
 
 - React allows you to pass data to component via a concept called "Props"
+
+---
+
+## The Special "childrne" Prop
+
+- React automatically passes a special prop named "children" to every custom component
+- Content for "children" - The content between component opening and closing tags is used as a value for the special "children" prop
+- This is known as "component composition"
+
+### Children vs Props
+
+- Using "children"
+  - For components that take a single piece of renderable content, this approach is close to "normal HTML usage"
+  - This approach is especially convenient when passing JSX code as a value to another component
+- Using attributes
+  - This approach makes sense if you have multiple smaller pieces of information that must be passed to a component
+  - Adding extra props instead of just wrapping the component tags means "extra work"
+
+---
+
+## Common source of bugs
+
+- By default, react components only execute only once
+  - You have to "tell" React if a Component Should be executed again
+
+### How React Check if UI Updates are Needed
+
+- React compares the old output ("old JSX code") of your component function to the new output ("new JSX code") and applies any differences to the actual website UI
+
+---
+
+## The rules of hooks
+
+1) Only call Hooks inside of component functions
+2) Only call hooks on the top level. They cannot be nested inside control statements
+
+- useState yields an array with two elements
+- Manage data and "tell" React to re-execute a component function via React's useState() Hook
