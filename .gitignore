@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies & build
 node_modules
 dist
 dist-ssr
@@ -23,6 +24,22 @@ dist-ssr
 *.sln
 *.sw?
 
+# Ignore folders
 ignore/TODO.md
 /ignore/
 /projects/map-timeseries-app/
+
+# Graphics & design files (exclude all)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+*.bmp
+*.tiff
+*.ico
+*.psd
+*.ai
+*.eps
+*.xcf
